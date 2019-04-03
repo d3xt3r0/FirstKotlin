@@ -1,2 +1,2 @@
 # FirstKotlin
-Kotlin tutorial resource files.
+> Kotlin tutorial resource files.
